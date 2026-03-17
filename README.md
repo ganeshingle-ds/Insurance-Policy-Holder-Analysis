@@ -1,4 +1,5 @@
 📊 Insurance Policy Analysis Dashboard (Power BI)
+
 📌 Project Overview
 
 This project is built using Microsoft Power BI to analyze insurance policy data.
@@ -25,6 +26,7 @@ The project uses the following datasets:
 8) Parameter Table – Used for dynamic filtering (Policy Holder Name, Sales Agent, Policy Type, etc.)
 
 📊 Dashboard Pages
+
 1️⃣ Summary of Policy Holders
 
 Total number of policies
