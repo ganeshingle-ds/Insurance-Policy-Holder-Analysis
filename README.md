@@ -80,3 +80,9 @@ Refresh the dataset
 Use slicers to filter data
 
 Explore different dashboard pages
+## Dashboard Screenshots
+
+![Dashboard](Screenshot 2026-03-17 140739.png)
+![Dashboard](Screenshot 2026-03-17 141057.png)
+![Dashboard](Screenshot 2026-03-17 141144.png)
+![Dashboard](Screenshot 2026-03-17 141159.png)
