@@ -118,11 +118,16 @@ DAX (Data Analysis Expressions)
 Identifies top-performing sales agents
 
 Tracks premium trends over years
+
+Highlights high-value customers 
+
+Analyzes policy distribution across states and occupations
+
 Dashboard 1
 <img width="1920" height="1080" alt="Screenshot 2026-03-17 140739" src="https://github.com/user-attachments/assets/6b80d478-8a80-426e-aa72-9e7c24832857" />
 
 Dashboard 2
-Highlights high-value customers<img width="1920" height="1080" alt="Screenshot 2026-03-17 141057" src="https://github.com/user-attachments/assets/6a556350-1079-4eb2-a570-baf9db97139a" />
+<img width="1920" height="1080" alt="Screenshot 2026-03-17 141057" src="https://github.com/user-attachments/assets/6a556350-1079-4eb2-a570-baf9db97139a" />
 
 Dashboard 3
 <img width="1920" height="1080" alt="Screenshot 2026-03-17 141144" src="https://github.com/user-attachments/assets/cb5f0fe0-6a40-4ec8-96d8-d16b8b3cbefb" />
@@ -130,6 +135,6 @@ Dashboard 3
 Dashboard 4
 <img width="1920" height="1080" alt="Screenshot 2026-03-17 141159" src="https://github.com/user-attachments/assets/cfbfc3f2-c1c5-4e9e-aa85-f584b6ff3923" />
 
-Analyzes policy distribution across states and occupations
+
 
 
