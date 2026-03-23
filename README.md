@@ -30,7 +30,7 @@ DM_Policy_Type: Categorization of insurance products.
 
 DM_Regional/Zonal_Manager: Organizational hierarchy data.
 
-FCT_Insurance_Policy_Transactions: The central fact table containing premium amounts, payments, and dates.
+FCT_Insurance_Policy_Table: The central fact table containing premium amounts, payments, and dates.
 
 🚀 Key Features
 
@@ -68,13 +68,21 @@ Author
 Developed by [Ganesh Ingle] Data Analyst | Power BI Developer
 
  1 Summary of Policy Holders
+ 
 <img width="1920" height="1080" alt="Screenshot 2026-03-17 140739" src="https://github.com/user-attachments/assets/6b80d478-8a80-426e-aa72-9e7c24832857" />
 
+
+
 2 Sales & Premium Analysis
+
 <img width="1920" height="1080" alt="Screenshot 2026-03-17 141057" src="https://github.com/user-attachments/assets/6a556350-1079-4eb2-a570-baf9db97139a" />
 
-3) Sales Hierarchy Analysis 
+
+
+3) Sales Hierarchy Analysis
+
 <img width="1920" height="1080" alt="Screenshot 2026-03-17 141144" src="https://github.com/user-attachments/assets/cb5f0fe0-6a40-4ec8-96d8-d16b8b3cbefb" />
+
 
 
 <img width="1920" height="1080" alt="Screenshot 2026-03-17 141159" src="https://github.com/user-attachments/assets/cfbfc3f2-c1c5-4e9e-aa85-f584b6ff3923" />
