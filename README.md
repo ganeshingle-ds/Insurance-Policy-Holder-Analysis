@@ -1,25 +1,41 @@
 Insurance Policy Analysis Dashboard
+
 📊 Project Overview
+
 This project features an interactive Power BI Dashboard designed to analyze insurance policy data. The goal is to provide actionable insights into policyholder demographics, premium collections, sales team performance, and historical trends. By leveraging data modeling and dynamic filtering, the dashboard helps stakeholders monitor business health and identify growth opportunities.
 
 🛠️ Tools & Technologies
+
 Power Query : For data cleaning 
+
 Power BI Desktop: For data transformation, modeling, and visualization.
+
 DAX (Data Analysis Expressions): Used for creating custom measures and complex calculations.
+
 Data Modeling: Implemented a Star Schema to optimize performance.
+
 Microsoft Excel/CSV: Served as the primary data sources.
 
 🗂️ Dataset Information
+
 The analysis is built on a structured relational model including:
-DM_Customer_Details:  (Customer_ID, Name, Gender, State etc.).
+
+DM_Customer_Details:  (Customer_ID, Name, Gender, State etc.)
+
 DM_Insurance_Agent:   (Agent code, Agent Mail,Sales Agent)
+
 DM_Policy_Protection: (Business code, Number, Policy Code , Policy Name)
+
 DM_Policy_Type: Categorization of insurance products.
+
 DM_Regional/Zonal_Manager: Organizational hierarchy data.
+
 FCT_Insurance_Policy_Transactions: The central fact table containing premium amounts, payments, and dates.
 
 🚀 Key Features
-Summary View: High-level KPIs showing total policies (7,299), 
+
+Summary View: High-level KPIs showing total policies (7,299),
+
 total premium amount (\approx 39.10M), and annual/payable premiums.
 
 Sales & Premium Analysis: Breakdown of premiums by Policy Type, State, and Occupation.
@@ -33,6 +49,7 @@ Interactive Slicers: Dynamic filtering by Year, Quarter, Occupation, and Policy 
 
 
 📈 Dashboard Insights
+
 Customer Segmentation: Identifies high-value customers based on premium contributions.
 
 Geographic Performance: Visualizes which states are driving the highest revenue.
