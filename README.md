@@ -1,10 +1,10 @@
 Insurance Policy Analysis Dashboard
 
-📊 Project Overview
+# 📊 Project Overview
 
 This project features an interactive Power BI Dashboard designed to analyze insurance policy data. The goal is to provide actionable insights into policyholder demographics, premium collections, sales team performance, and historical trends. By leveraging data modeling and dynamic filtering, the dashboard helps stakeholders monitor business health and identify growth opportunities.
 
-🛠️ Tools & Technologies
+# 🛠️ Tools & Technologies
 
 Power Query : For data cleaning 
 
@@ -16,7 +16,7 @@ Data Modeling: Implemented a Star Schema to optimize performance.
 
 Microsoft Excel/CSV: Served as the primary data sources.
 
-🗂️ Dataset Information
+# 🗂️ Dataset Information
 
 The analysis is built on a structured relational model including:
 
@@ -32,7 +32,7 @@ DM_Regional/Zonal_Manager: Organizational hierarchy data.
 
 FCT_Insurance_Policy_Table: The central fact table containing premium amounts, payments, and dates.
 
-🚀 Key Features
+# 🚀 Key Features
 
 Summary View: High-level KPIs showing total policies (7,299),
 
@@ -48,7 +48,7 @@ Interactive Slicers: Dynamic filtering by Year, Quarter, Occupation, and Policy 
 
 
 
-📈 Dashboard Insights
+# 📈 Dashboard Insights
 
 Customer Segmentation: Identifies high-value customers based on premium contributions.
 
@@ -96,19 +96,19 @@ Developed by [Ganesh Ingle]
 Data Analyst | Power BI Developer
 
 
- 1 Summary of Policy Holders
+# 1 Summary of Policy Holders
  
 <img width="1920" height="1080" alt="Screenshot 2026-03-17 140739" src="https://github.com/user-attachments/assets/6b80d478-8a80-426e-aa72-9e7c24832857" />
 
 
 
-2 Sales & Premium Analysis
+# 2 Sales & Premium Analysis
 
 <img width="1920" height="1080" alt="Screenshot 2026-03-17 141057" src="https://github.com/user-attachments/assets/6a556350-1079-4eb2-a570-baf9db97139a" />
 
 
 
-3) Sales Hierarchy Analysis
+# 3 Sales Hierarchy Analysis
 
 <img width="1920" height="1080" alt="Screenshot 2026-03-17 141144" src="https://github.com/user-attachments/assets/cb5f0fe0-6a40-4ec8-96d8-d16b8b3cbefb" />
 
