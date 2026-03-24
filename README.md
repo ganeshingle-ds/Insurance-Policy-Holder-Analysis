@@ -81,8 +81,9 @@ Growth Trends:
 Every year, the money collected from premiums is growing by 10-15%. Most people buy insurance during the 3rd Quarter (Q3) of the year.
 
 
+
    
-How to Use
+# How to Use
 
 Clone this repository.
 
@@ -93,7 +94,7 @@ Author
 
 Developed by [Ganesh Ingle]  
 
-Data Analyst | Power BI Developer
+
 
 
 # 1 Summary of Policy Holders
