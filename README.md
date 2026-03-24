@@ -1,4 +1,4 @@
-Insurance Policy Analysis Dashboard
+# Insurance Policy Analysis Dashboard
 
 # 📊 Project Overview
 
