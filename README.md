@@ -58,14 +58,43 @@ Sales Efficiency: Tracks which agents and managers are meeting targets.
 
 Trend Detection: Monitors how premium payments fluctuate year-over-year.
 
+
+# Key Business Insights
+
+After analyzing the data, I found these 4 important points:
+
+Top Performers:
+
+A small group of Top Sales Agents (20%) is bringing in 75% of the total money. This means the company depends heavily on its best workers.
+
+Most Popular Policies:
+
+Most customers between 30 and 45 years old prefer "Universal" and "Whole" insurance policies. These products make the most money ($39.10M).
+
+Where the Money Comes From:
+
+Most of the revenue comes from Big Cities (Urban Zones). There is a great chance to grow the business in Smaller Towns (Rural Zones) by selling more "Term 
+Insurance."
+
+Growth Trends:
+
+Every year, the money collected from premiums is growing by 10-15%. Most people buy insurance during the 3rd Quarter (Q3) of the year.
+
+
    
 How to Use
+
 Clone this repository.
+
 Open the .pbix file in Power BI Desktop.
 
 
 Author
-Developed by [Ganesh Ingle] Data Analyst | Power BI Developer
+
+Developed by [Ganesh Ingle]  
+
+Data Analyst | Power BI Developer
+
 
  1 Summary of Policy Holders
  
